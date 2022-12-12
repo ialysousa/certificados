@@ -12,13 +12,13 @@ ASP.NET Core Enterprise Applications
 [Visualizar certificado](link)<br>
 
 
-Aprenda o que são Estrutura de Dados e Algoritmos
+Boas-vindas ao Bootcamp Capgemini Fullstack Java and Angular
 -------------------------------------------------
 **Modalidade:** Ensino à Distância<br>
 **Plataforma:** [Digital Innovation One Inc.](https://digitalinnovation.one/)<br>
 **Emitido em:** 11 de dexembro de 2022<br>
-**Código do certificado:** [5540A8CE](https://hermes.digitalinnovation.one/certificates/5540A8CE.pdf)<br>
-[Visualizar certificado](link)<br>
+**Código do certificado:** [5540A8CE]<br>
+[Visualizar certificado]([link](https://hermes.digitalinnovation.one/certificates/5540A8CE.pdf))<br>
 
 
 C# Completo - Programação Orientada a Objetos + Projetos
