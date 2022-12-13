@@ -17,4 +17,13 @@ Boas-vindas ao Bootcamp Capgemini Fullstack Java and Angular
 [Visualizar certificado](https://certificates.digitalinnovation.one/5540A8CE)<br>
 
 
+Certificação White Belt em Lean Six-Sigma
+-------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [EDTI Treinamentos e Melhoria de Processos](https://ead2.escolaedti.com.br/)<br>
+**Emitido em:** 13 de dexembro de 2022<br>
+**Código do certificado:** [EDTI43cc773e8d71e5a68bf40ffa3d7c1f6a](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-8092900/course-23203-cbeti.pdf)<br>
+[Visualizar certificado](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-8092900/course-23203-cbeti.pdf)<br>
+
+
 
