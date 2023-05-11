@@ -26,4 +26,12 @@ Certificação White Belt em Lean Six-Sigma
 [Visualizar certificado](https://edools-3-production.s3.amazonaws.com/org-7114/school-7395/certificates/enrollment-8092900/course-23203-cbeti.pdf)<br>
 
 
+SCRUM Fundamentls Certified
+-------------------------------------------------
+**Modalidade:** Ensino à Distância<br>
+**Plataforma:** [SCRUMstudy]()<br>
+**Emitido em:** 13 de dexembro de 2022<br>
+**Código do certificado:** [956699]((https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-IalyCordeiroDeSousa-956699.pdf))<br>
+[Visualizar certificado](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-IalyCordeiroDeSousa-956699.pdf)<br>
+
 
